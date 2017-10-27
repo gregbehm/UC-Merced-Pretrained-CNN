@@ -5,6 +5,6 @@ In recent years, a class of artificial neural networks known as Convolutional Ne
 
 **Faced with a task where you don't have access to millions of samples, how can you hope to achieve effective performance from a deep neural network?**  
 
-One method widely used is known as *transfer learning*, using a CNN trained on a large dataset to learn essential features that can be *transferred* to a new, related problem domain. The pretrained network forms "base" upon which a refined network is trained on a smaller dataset specific to the new problem domain.  
+One widely used method is known as *transfer learning*, using a CNN trained on a large dataset to learn essential features that can be *transferred* to a new, related problem domain. The pretrained network forms "base" upon which a refined network is trained on a smaller dataset specific to the new problem domain.  
 
 Use of pretrained networks for transfer learning has proven effective in a variety of applications. This project notebook demonstrates the process using the Keras deep learning library, which provides access to several CNNs prertained on the ImageNet database, to classify images from the relatively small (2,100 samples) UC Merced Land Use dataset. 
