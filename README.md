@@ -1,5 +1,5 @@
 # Transfer Learning for Small Dataset Image Classification
-*An image classification project on a the UC Merced Land Use dataset, using a pretrained CNN.*  
+*An image classification project on the UC Merced Land Use dataset, using a pretrained CNN.*  
 
 In recent years, a class of artificial neural networks known as Convolutional Neural Networks (CNNs) has proven highly effective for a variety of applications, such as image and voice recognition. Training these deep networks, however, comes at a cost: they require large quantities of training data, and they can be slow to train even with fast processors and ample storage. It may be necessary to train a CNN with hundreds of thousands or millions of samples to achieve effective performance.  
 
