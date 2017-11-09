@@ -9,4 +9,4 @@ One widely used method is known as *transfer learning*, using a CNN trained on a
 
 This project notebook demonstrates the effectiveness of transfer learning using the Keras deep learning library to classify images from the small UC Merced Land Use dataset. This dataset consists of 2,100 images from 21 classes (100 images per class), derived from the USGS National Map Urban Area Imagery collection. More information about the dataset can be found at http://vision.ucmerced.edu/datasets/landuse.html.  
 
-**Note: No cats were used in making this project! ;-)**  
+**Note: No cat pictures were used to make this project! ;-)**  
