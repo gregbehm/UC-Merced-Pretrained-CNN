@@ -8,3 +8,5 @@ In recent years, a class of artificial neural networks known as Convolutional Ne
 One widely used method is known as *transfer learning*, using a CNN trained on a large dataset to learn essential features that can be *transferred* to another, related problem domain. The pretrained network forms the base upon which a refined network is trained on a smaller dataset specific to the new problem domain. Pretrained networks for transfer learning have proven effective for variety of applications.  
 
 This project notebook demonstrates the effectiveness of transfer learning using the Keras deep learning library to classify images from the small UC Merced Land Use dataset. This dataset consists of 2,100 images from 21 classes (100 images per class), derived from the USGS National Map Urban Area Imagery collection. More information about the dataset can be found at http://vision.ucmerced.edu/datasets/landuse.html.  
+
+**Note: No cats were used in making this project! ;-)**  
